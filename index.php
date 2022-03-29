@@ -39,9 +39,9 @@
 					<article class="hentry">
 					<header class="entry-header">
 					<div class="entry-thumbnail">
-						<a href="articulos/portfolio-item.html"><img src="images/teclado.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="p1"/></a>
+						<a href="https://demo-ra-pcbox.herokuapp.com/articulos/portfolio-item.php"><img src="images/teclado.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="p1"/></a>
 					</div>
-					<h2 class="entry-title"><a href="articulos/portfolio-item.html" rel="bookmark">Teclado</a></h2>
+					<h2 class="entry-title"><a href="https://demo-ra-pcbox.herokuapp.com/articulos/portfolio-item.php" rel="bookmark">Teclado</a></h2>
 					
 					</header>
 					</article>
@@ -49,9 +49,9 @@
 					<article class="hentry">
 					<header class="entry-header">
 					<div class="entry-thumbnail">
-						<a href="articulos/portafolio-item-laptop.html"><img src="images/laptop.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="p1"/></a>
+						<a href="https://demo-ra-pcbox.herokuapp.com/articulos/portafolio-item-laptop.php"><img src="images/laptop.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="p1"/></a>
 					</div>
-					<h2 class="entry-title"><a href="articulos/portafolio-item-laptop.html" rel="bookmark">Laptop</a></h2>
+					<h2 class="entry-title"><a href="https://demo-ra-pcbox.herokuapp.com/articulos/portafolio-item-laptop.php" rel="bookmark">Laptop</a></h2>
 					
 					</header>
 					</article>
@@ -59,9 +59,9 @@
 					<article class="hentry">
 					<header class="entry-header">
 					<div class="entry-thumbnail">
-						<a href="articulos/portafolio-item-bocina.html"><img src="images/bocinas.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="p1"/></a>
+						<a href="https://demo-ra-pcbox.herokuapp.com/articulos/portafolio-item-bocina.php"><img src="images/bocinas.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="p1"/></a>
 					</div>
-					<h2 class="entry-title"><a href="articulos/portafolio-item-bocina.html" rel="bookmark">Bocina</a></h2>
+					<h2 class="entry-title"><a href="https://demo-ra-pcbox.herokuapp.com/articulos/portafolio-item-bocina.php" rel="bookmark">Bocina</a></h2>
 					
 					</header>
 					</article>
