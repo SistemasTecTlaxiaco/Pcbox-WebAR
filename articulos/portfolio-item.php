@@ -8,7 +8,7 @@
   <body width="25px" height="25px">
     <a-scene embedded arjs>
       <a-entity scale=".2 .2 .2"> 
-        <a-entity gltf-model="https://web-ar-pcbox.herokuapp.com//models/Ateclado.glb" scale="0.25 0.25 0.25" crossOrigin="anonymous">
+        <a-entity gltf-model="https://web-ar-pcbox.herokuapp.com//models/teclado.glb" scale="0.25 0.25 0.25" crossOrigin="anonymous">
         </a-entity>
         <a-marker-camera preset='hiro'></a-marker-camera>
         </a-scene>
